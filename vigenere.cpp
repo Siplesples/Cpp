@@ -24,6 +24,7 @@ string vigenere(string pass, string username) {
     return ciper;
 }
 
+
 int main() {
     string pass;
     string username;
